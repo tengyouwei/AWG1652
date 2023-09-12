@@ -22,7 +22,17 @@ namespace CommonLibrary.Enum
 
     public enum XXX
     {
+        [Description("1652_通道1")]
+        CHA_1 = 0,
 
+        [Description("1652_通道2")]
+        CHA_2 = 1,
+
+        [Description("1652_通道3")]
+        CHA_3 = 2,
+
+        [Description("1652_通道4")]
+        CHA_4 = 3,
     }
 }
     
